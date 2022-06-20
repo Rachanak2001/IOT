@@ -11,3 +11,5 @@ https://wokwi.com/projects/333805190238962259  :-RGB LED2<br>
 https://wokwi.com/projects/322062421191557714  :-Hello wokwi<br>
 <br>
 https://wokwi.com/projects/334977602579071570 :- Basic servo motar
+
+https://wokwi.com/projects/334977602579071570 :-For loop with servo motar
