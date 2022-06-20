@@ -13,3 +13,5 @@ https://wokwi.com/projects/322062421191557714  :-Hello wokwi<br>
 https://wokwi.com/projects/334977602579071570 :- Basic servo motar
 
 https://wokwi.com/projects/334977602579071570 :-For loop with servo motar
+
+https://wokwi.com/projects/334977602579071570 :-Servo motor with slide potentiometer
