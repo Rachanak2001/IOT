@@ -21,3 +21,5 @@ https://wokwi.com/projects/334977602579071570 :-Servo motor with slide potentiom
 https://wokwi.com/projects/335065844754154067 :-BUZZER
 
 https://wokwi.com/projects/335065844754154067 :-BUZZER with Push button
+
+https://wokwi.com/projects/335070139005272658 -Ultrasonic
