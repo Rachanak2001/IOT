@@ -22,7 +22,7 @@ https://wokwi.com/projects/335065707348755026 :-BUZZER<br>
 <br>
 https://wokwi.com/projects/335065844754154067 :-BUZZER with Push button<br>
 <br>
-https://wokwi.com/projects/335070139005272658 :-Ultrasonic<br>
+https://wokwi.com/projects/335131064102027860 :-Ultrasonic<br>
 <br>
 https://wokwi.com/projects/335070139005272658 :-Ultrasonic sensor with buzzer<br>
 <br>
