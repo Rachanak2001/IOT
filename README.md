@@ -26,4 +26,4 @@ https://wokwi.com/projects/335070139005272658 :-Ultrasonic<br>
 <br>
 https://wokwi.com/projects/335070139005272658 :-Ultrasonic sensor with buzzer
 
-https://wokwi.com/projects/335075055329346132 :-varring with intensity
+https://wokwi.com/projects/335075055329346132 :-varring with intensity of Ultrasonic with buzzer
