@@ -16,9 +16,9 @@ https://wokwi.com/projects/334977593624232530  :-    servo motar using for loop<
 <br>
 https://wokwi.com/projects/334977602579071570 :-Servo motor with slide potentiometer<br>
 <br>
-https://wokwi.com/projects/334977602579071570 :-Servo motor with slide potentiometer<br><br>
+https://wokwi.com/projects/334977602579071570 :-Servo motor with slide potentiometer<br>
 <br>
-https://wokwi.com/projects/335065844754154067 :-BUZZER<br><br>
+https://wokwi.com/projects/335065707348755026 :-BUZZER<br>
 <br>
 https://wokwi.com/projects/335065844754154067 :-BUZZER with Push button<br>
 <br>
