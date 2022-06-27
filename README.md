@@ -25,3 +25,5 @@ https://wokwi.com/projects/335065844754154067 :-BUZZER with Push button<br>
 https://wokwi.com/projects/335070139005272658 :-Ultrasonic<br>
 <br>
 https://wokwi.com/projects/335070139005272658 :-Ultrasonic sensor with buzzer
+
+https://wokwi.com/projects/335075055329346132 :-varring with intensity
