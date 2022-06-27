@@ -30,3 +30,4 @@ https://wokwi.com/projects/335075055329346132 :-varring with intensity of Ultras
 <br>
 https://wokwi.com/projects/335611619397599827 :-varring with distance using led<br>
 <br>
+https://wokwi.com/projects/335615459073196626 :-Two ultrasonic with buzzer and led.
