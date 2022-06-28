@@ -34,4 +34,4 @@ https://wokwi.com/projects/335615459073196626 :-Two ultrasonic with buzzer and l
 <br>
 https://wokwi.com/projects/335701857976451668 :-Potentiometer with LED<br>
 <br>
-https://wokwi.com/projects/335703320809177684 :-Servo motor with pushbutton<br>
+https://wokwi.com/projects/335702826545054292 :-Servo motor with pushbutton<br>
