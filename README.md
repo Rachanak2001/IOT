@@ -35,5 +35,8 @@ https://wokwi.com/projects/335615459073196626 :-Two ultrasonic with buzzer and l
 https://wokwi.com/projects/335701857976451668 :-Potentiometer with LED<br>
 <br>
 https://wokwi.com/projects/335702826545054292 :-Servo motor with pushbutton<br>
-
-https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).
+<br>
+https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).<br>
+<br>
+https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)<br>
+<br>
