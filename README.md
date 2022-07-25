@@ -36,4 +36,4 @@ https://wokwi.com/projects/335701857976451668 :-Potentiometer with LED<br>
 <br>
 https://wokwi.com/projects/335702826545054292 :-Servo motor with pushbutton<br>
 
-https://wokwi.com/projects/338147082096345683 :-DHT11 uisng humidity sensor and temperature.
+https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).
