@@ -40,3 +40,4 @@ https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temp
 <br>
 https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)<br>
 <br>
+https://wokwi.com/projects/338225981441442386 :-ESP32(LED/Buzzer)
