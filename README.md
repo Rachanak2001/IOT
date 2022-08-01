@@ -45,3 +45,31 @@ https://wokwi.com/projects/335702826545054292 :-Servo motor with pushbutton<br>
 <br>
 5. https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)<br>
 <br>
+<br>
+**HARDWARE**<br>
+**IR SENSOR**<br>
+int ir=D5;<br>
+int led=D6;
+void setup() {<br>
+  // put your setup code here, to run once:<br>
+  pinMode(ir,INPUT);<br>
+    pinMode(led,OUTPUT);<br>
+    Serial.begin(9600);<br>
+    
+}<br>
+
+void loop() {<br>
+  // put your main code here, to run repeatedly:<br>
+  int irvalue=digitalRead(ir);<br>
+  if(irvalue==LOW)<br>
+  {<br>
+    Serial.println("LOW");<br>
+    digitalWrite(led,HIGH);<br>
+  }<br>
+  else<br>
+  {<br>
+    Serial.println("HIGH");<br>
+    digitalWrite(led,LOW);<br>
+  }<br>
+delay(100);<br>
+}<br>
