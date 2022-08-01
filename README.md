@@ -36,8 +36,12 @@ https://wokwi.com/projects/335701857976451668 :-Potentiometer with LED<br>
 <br>
 https://wokwi.com/projects/335702826545054292 :-Servo motor with pushbutton<br>
 <br>
-https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).<br>
+
+**LAB LIST**
+1. https://wokwi.com/projects/338225981441442386 :-ESP32(LED/Buzzer)<br>
+   https://wokwi.com/projects/338770823644971603 :-Arduino(LED/BUZZER)<br>
 <br>
-https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)<br>
+3. https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).<br>
 <br>
-https://wokwi.com/projects/338225981441442386 :-ESP32(LED/Buzzer)
+5. https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)<br>
+<br>
