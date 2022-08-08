@@ -76,7 +76,7 @@ delay(100);<br>
 
 ![image](https://user-images.githubusercontent.com/97940850/182358111-4c419a1d-794c-43d8-b235-596bd407dbc6.png)<br>
 <br>
-**Chassing LED**
+**Chassing LED**<br>
 int pinsCount=7;                        // declaring the integer variable pinsCount<br>
 int pins[] = {D0,D1,D2,D3,D4,D5,D6};          // declaring the array pins[]<br>
  <br>
