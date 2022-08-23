@@ -100,3 +100,73 @@ void loop() {<br>
 }<br>
 }<br>
 <br>
+**flood monitoring using thingspeak:-**<br><br>
+#include "ThingSpeak.h"<br>
+#include <ESP8266WiFi.h><br>
+const int trigPin1 = D6;<br>
+const int echoPin1 = D7;<br>
+#define redled D0<br>
+#define grnled D1<br>
+#define BUZZER D5 //buzzer pin
+unsigned long ch_no = 1053193;//Replace with Thingspeak Channel number<br>
+const char * write_api = "1WGTOHK9622G57JI";//Replace with Thingspeak write API<br>
+char auth[] = "mwa0000027193727";<br>
+char ssid[] = "SATHWIKA";<br>
+char pass[] = "Mohitha96";<br>
+unsigned long startMillis;<br>
+unsigned long currentMillis;<br>
+const unsigned long period = 10000;<br>
+WiFiClient  client;<br>
+long duration1;<br>
+int distance1;<br>
+void setup()
+{<br>
+  pinMode(trigPin1, OUTPUT);<br>
+  pinMode(echoPin1, INPUT);<br>
+  pinMode(redled, OUTPUT);<br>
+  pinMode(grnled, OUTPUT);<br>
+  digitalWrite(redled, LOW);<br>
+  digitalWrite(grnled, LOW);<br>
+  Serial.begin(115200);<br>
+  WiFi.begin(ssid, pass);<br>
+  while (WiFi.status() != WL_CONNECTED)<br>
+  {<br>
+    delay(1000);<br>
+    Serial.print(".");<br>
+  }<br>
+  Serial.println("WiFi connected");<br>
+  Serial.println(WiFi.localIP());<br>
+  ThingSpeak.begin(client);<br>
+  startMillis = millis();  //initial start time<br>
+}<br>
+void loop()<br>
+{<br>
+  digitalWrite(trigPin1, LOW);<br>
+  delayMicroseconds(2);<br>
+  digitalWrite(trigPin1, HIGH);<br>
+  delayMicroseconds(10);<br>
+  digitalWrite(trigPin1, LOW);<br>
+  duration1 = pulseIn(echoPin1, HIGH);<br>
+  distance1 = duration1 * 0.034 / 2;<br>
+  Serial.println(distance1);<br>
+  if (distance1 <= 400)<br>
+  {<br>
+    digitalWrite(D0, HIGH);<br>
+    tone(BUZZER, 300);<br>
+    digitalWrite(D1, LOW);<br>
+    delay(1500);<br>
+    noTone(BUZZER);<br>
+  }<br>
+  else<br>
+  {<br>
+    digitalWrite(D1, HIGH);<br>
+    digitalWrite(D0, LOW);<br>
+  }<br>
+  currentMillis = millis();<br>
+  if (currentMillis - startMillis >= period)<br>
+  {<br>
+    ThingSpeak.setField(1, distance1);<br>
+    ThingSpeak.writeFields(ch_no, write_api);<br>
+    startMillis = currentMillis;<br>
+  }<br>
+}<br>
