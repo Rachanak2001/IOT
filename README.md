@@ -170,3 +170,15 @@ void loop()<br>
     startMillis = currentMillis;<br>
   }<br>
 }<br>
+
+
+
+
+ESP32 SOFTWARE PROGRAM:-
+
+https://wokwi.com/projects/340852517819646547 ( led blink)
+https://wokwi.com/projects/340852963452912210 (3 LED)
+https://wokwi.com/projects/340853325803029074 (RGB MULTICOLOR)
+https://wokwi.com/projects/340853653389705812 ( RGB COLOR)
+https://wokwi.com/projects/340854854168609362 (LCD )
+https://wokwi.com/projects/340857446725583442 (servomotor with sliding potentiometer)
