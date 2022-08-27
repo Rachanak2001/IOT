@@ -170,22 +170,24 @@ void loop()<br>
     startMillis = currentMillis;<br>
   }<br>
 }<br>
-
-
-
-
-ESP32 SOFTWARE PROGRAM:-
-
-https://wokwi.com/projects/340852517819646547 ( led blink)
-https://wokwi.com/projects/340852963452912210 (3 LED)
-https://wokwi.com/projects/340853325803029074 (RGB MULTICOLOR)
-https://wokwi.com/projects/340853653389705812 ( RGB COLOR)
-https://wokwi.com/projects/340854854168609362 (LCD )
-https://wokwi.com/projects/340857446725583442 (servomotor with sliding potentiometer)
-https://wokwi.com/projects/340892440485429842 (DHT22)
-https://wokwi.com/projects/340890155914101331 - Buzzer + Pushbutton_
-https://wokwi.com/projects/340890489300451922 - Buzzer + UltraSonic Sensor
-https://wokwi.com/projects/340890896679567955 - Potentiometer + LED
-https://wokwi.com/projects/340893919446303316 - LED CHASER
-https://wokwi.com/projects/340936317213868626 - LDR
-https://wokwi.com/projects/340936847717827156 - LDR + LED
+<br><br>
+<br>
+<br>
+<br>
+ESP32 SOFTWARE PROGRAM:-<br>
+<br>
+https://wokwi.com/projects/340852517819646547 ( led blink)<br>
+https://wokwi.com/projects/340852963452912210 (3 LED)<br>
+https://wokwi.com/projects/340853325803029074 (RGB MULTICOLOR)<br>
+https://wokwi.com/projects/340853653389705812 ( RGB COLOR)<br>
+https://wokwi.com/projects/340854854168609362 (LCD )<br>
+https://wokwi.com/projects/340886369600537172 - Servo Motor + Pushbutton<br>
+https://wokwi.com/projects/340857446725583442 (servomotor with sliding potentiometer)<br>
+https://wokwi.com/projects/340892440485429842 (DHT22)<br>
+https://wokwi.com/projects/340890155914101331 - Buzzer + Pushbutton_<br>
+https://wokwi.com/projects/340890489300451922 - Buzzer + UltraSonic Sensor<br>
+https://wokwi.com/projects/340890896679567955 - Potentiometer + LED<br>
+https://wokwi.com/projects/340893919446303316 - LED CHASER<br>
+https://wokwi.com/projects/340936317213868626 - LDR<br>
+https://wokwi.com/projects/340936847717827156 - LDR + LED<br>
+<br>
