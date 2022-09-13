@@ -171,7 +171,7 @@ void loop()<br>
   }<br>
 }<br>
 <br>
-Soil Moisture<br>
+**Soil Moisture**<br>
 const int sensor_pin = A0;  /* Connect Soil moisture analog sensor pin to A0 of NodeMCU */<br>
 <br>
 void setup() {<br>
