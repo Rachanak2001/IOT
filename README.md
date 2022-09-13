@@ -191,3 +191,6 @@ https://wokwi.com/projects/340893919446303316 - LED CHASER<br>
 https://wokwi.com/projects/340936317213868626 - LDR<br>
 https://wokwi.com/projects/340936847717827156 - LDR + LED<br>
 <br>
+<br>
+<br>
+https://wokwi.com/projects/342673521442292308 - <br>
